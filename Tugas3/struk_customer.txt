@@ -1,0 +1,7 @@
+=== STRUK PEMESANAN ===
+------------------------
+es jeruk             x 1 = Rp 7000,00
+es teh               x 2 = Rp 12000,00
+bakso                x 3 = Rp 30000,00
+------------------------
+Total Biaya: Rp 49000,00
